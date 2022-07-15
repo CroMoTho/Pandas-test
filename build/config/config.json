@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x49Da04F1Fa4AbD7E372e64ed5BE17430fc0D6e85",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x49da04f1fa4abd7e372e64ed5be17430fc0d6e85",
+  "NETWORK": {
+    "NAME": "Rinkeby Testnet",
+    "SYMBOL": "RinkebyETH",
+    "ID": 4
+  },
+  "NFT_NAME": "CroMo_Pandas",
+  "SYMBOL": "cromo-NFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collections",
+  "SHOW_BACKGROUND": true
+}
